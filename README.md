@@ -1,4 +1,4 @@
-# dl_example_app
+# dl_scratch
 The small project is created to understand neural network structure
 
 Dataset Source: https://www.kaggle.com/sanikamal/horses-or-humans-dataset/data#
